@@ -1,0 +1,10 @@
+{
+  "emulators": {
+    "functions": {
+      "port": null
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
